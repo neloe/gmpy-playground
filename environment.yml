@@ -1,0 +1,5 @@
+name: gmpy2-playground
+channels:
+  - conda-forge
+dependencies:
+  -gmpy2
