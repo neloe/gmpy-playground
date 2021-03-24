@@ -3,3 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - gmpy2
+  - matplotlib
